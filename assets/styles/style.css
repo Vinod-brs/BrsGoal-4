@@ -141,7 +141,7 @@
     }
     .last{
         margin-top: -11px;
-        gap: 6px;
+        gap: 10px;
         grid-template-columns: 316px 80px;
     }
     .project-title{
